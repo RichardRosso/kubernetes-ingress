@@ -1,4 +1,4 @@
-PyYAML==5.4.1
+PyYAML==6.0
 requests==2.26.0
 forcediphttpsadapter==1.0.1
 kubernetes==19.15.0b1
